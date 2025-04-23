@@ -1,4 +1,3 @@
-
 class Car(object):
     maxspeed = 300
     maxpeople = 5
